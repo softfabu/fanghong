@@ -6,6 +6,6 @@
 
 ## 使用方法
 
-进入该网址：[qqred.qian.blue](https://qqred.qian.blue)
-
+进入该网址：[fh.you8.xyz](https://fh.you8.xyz)
+ 
 搭建教程：[https://www.qian.blue/archives/qq-weixin_fanghong.html](https://www.qian.blue/archives/qq-weixin_fanghong.html)
